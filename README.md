@@ -1,4 +1,4 @@
-
+🌐 **语言** / Language: 中文 | [English](README_en.md)
 ![堆积柱状图](./03_sentence_type_proportions.png)
 Gender Switch: 11.6x
 性别开关：一个故意杀人案的2,000次量刑实验
