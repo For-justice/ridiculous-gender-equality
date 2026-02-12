@@ -83,10 +83,8 @@ This is no longer a “leaning”.
 ## 🧪 Reproduce
 
 ```bash
-git clone https://github.com/yourname/gender-switch-trial
-cd gender-switch-trial
-pip install -r requirements.txt
-python run_experiment.py --case injection --trials 1000
+git clone https://github.com/For-justice/ridiculous-gender-equality
+
 ```
 
 ---
@@ -100,7 +98,7 @@ If you use this dataset or build upon this work, please cite:
   title={Gender Switch: 11.6x——2,000 Trials of a Murder Case},
   author={Anonymous},
   year={2026},
-  howpublished={\url{https://github.com/yourname/gender-switch-trial}}
+  howpublished={\url{https://github.com/For-justice/ridiculous-gender-equality}}
 }
 ```
 
