@@ -40,27 +40,7 @@ B 版：被告为男性护士，被害人为女性医生
 📂 仓库包含
 两份完全对称的实验刺激材料（仅交换性别代词与亲属称谓）
 
-4,000 次运行的完整输出日志（JSONL 格式）
+4,000 次运行的完整输出日志（JSON 格式）
 
-数据分析脚本（Python, R）
+数据分析脚本（Python）
 
-可视化图表（死刑率/死缓率/无期率 分性别条形图）
-
-🧪 复现
-bash
-git clone https://github.com/yourname/gender-switch-trial
-cd gender-switch-trial
-pip install -r requirements.txt
-python run_experiment.py --trials 1000
-📄 引用
-若您使用本数据集或发现，请引用：
-
-text
-@misc{gender_switch_2026,
-  title={Gender Switch: 4,000 Trials of a Murder Case},
-  author={Anonymous},
-  year={2026},
-  howpublished={\url{https://github.com/yourname/gender-switch-trial}}
-}
-这不是一个关于AI的故事。
-这是一个关于我们自己的故事。AI只是把它写了出来。
