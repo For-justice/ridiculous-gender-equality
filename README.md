@@ -64,3 +64,30 @@ Gender Switch: 11.6x
 砌墙案 2,000 次完整输出日志
 
 数据分析脚本Python
+
+
+---
+
+## 🧪 复现
+
+```bash
+git clone https://github.com/For-justice/ridiculous-gender-equality
+
+```
+
+---
+
+## 📄 引用
+
+If you use this dataset or build upon this work, please cite:
+
+```bibtex
+@misc{gender_switch_2026,
+  title={Gender Switch: 11.6x——2,000 Trials of a Murder Case},
+  author={Anonymous},
+  year={2026},
+  howpublished={\url{https://github.com/For-justice/ridiculous-gender-equality}}
+}
+```
+
+---
